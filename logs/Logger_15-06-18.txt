@@ -1,0 +1,3 @@
+[14:53:50][::1]-> USUARIO:[::1] - ARQUIVO:[C:\xampp\htdocs\base2\classes\artigos.class.php] - LINHA:[92] - Mensagem:[SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "click" não existe
+LINE 1: SELECT * FROM base_artigo  ORDER BY click DESC LIMIT 5
+                                            ^] 

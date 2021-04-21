@@ -1,0 +1,384 @@
+[16:16:46][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[16:17:27][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[16:18:15][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[16:18:29][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[16:18:46][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[16:18:52][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[15] 
+[16:19:00][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[16:20:57][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[16:22:48][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[15] 
+[16:22:52][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[16:22:56][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[6] 
+[16:24:45][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[24] 
+[16:27:02][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\artigos.class.php Erro na linha:103 - Mensagem:SQLSTATE[42601]: Syntax error: 7 ERRO:  erro de sintaxe no fim da entrada
+LINE 1: SELECT * FROM base_artigo  WHERE id=
+                                            ^ 
+[16:27:02][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42601]: Syntax error: 7 ERRO:  erro de sintaxe no fim da entrada
+LINE 1: SELECT * FROM base_categoria  WHERE id=
+                                               ^ 
+[16:29:22][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[6] 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=14
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=12
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=1
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=23
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=13
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=4
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=13
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=4
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=12
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=1
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=12
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=12
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=5
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=13
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=1
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=30
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=32
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=1
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=30
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=33
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=32
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=31
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=5
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=5
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=13
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=5
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=23
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=12
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=34
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=5
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=1
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=5
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=35
+                                            ^ 
+[16:40:47][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=14
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=12
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=1
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=23
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=13
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=4
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=13
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=4
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=12
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=1
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=12
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=12
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=5
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=13
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=1
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=30
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=32
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=1
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=30
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=33
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=32
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=31
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=5
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=5
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=13
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=5
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=23
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=12
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=34
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=5
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=1
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=9
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=5
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=35
+                                            ^ 
+[16:41:31][::1]-> Usuario:[::1] - Arquivo:C:\xampp\htdocs\base2\classes\categorias.class.php Erro na linha:81 - Mensagem:SQLSTATE[42703]: Undefined column: 7 ERRO:  coluna "categoria_id" não existe
+LINE 1: SELECT * FROM base_categoria  WHERE categoria_id=15
+                                            ^ 
+[16:45:02][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[16:45:31][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[16:48:48][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[16:57:03][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[16:57:11][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[16:57:25][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[16:57:43][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[22] 
+[19:39:11][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[51] 
+[19:45:53][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[51] 
+[20:19:03][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[1] 
+[20:29:19][::1]-> USUARIO:[::1] - CLICARAM NO  ARTIGO - ID:[59] 
