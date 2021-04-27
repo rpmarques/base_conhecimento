@@ -3,8 +3,6 @@
 01/07/2018 - 2.0 - NOVO LAYOUT
 13/07/2018 - 2.1 - UPDLOAD DE ARQUIVO JUNTO COM CHAMADO
  */
-error_reporting(E_ALL);
-ini_set("display_errors", 1);
 include_once './classes/funcoes.class.php';
 include_once './classes/logger.class.php';
 include_once './classes/conexao.class.php';
@@ -12,7 +10,11 @@ include_once './classes/categorias.class.php';
 $objCategorias = Categorias::getInstance(Conexao::getInstance());
 include_once './classes/artigos.class.php';
 $objArtigos = Artigos::getInstance(Conexao::getInstance());
+
+error_reporting(E_ALL);
+ini_set("display_errors", 1);
 define("LOGIN", $_SERVER['REMOTE_ADDR']);
+
 ?>
 <!DOCTYPE html>
 <html lang="pt-BR">
