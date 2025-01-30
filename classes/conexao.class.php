@@ -1,12 +1,7 @@
 <?php
 
 /* ESTE ARQUIVO FAZ A CONEXÃO COM O BANCO DE DADOS */
-//DADOS DA CONEXÃO REMOTO
-//DEFINE('USER', 'nairamar_siges');
-//DEFINE('PASSWORD', 'naira220888');
-//DEFINE('HOST', 'nairamarques.com');
-//DEFINE('DBNAME', 'nairamar_siges');
-//DEFINE('CHARSET', 'utf8');
+
 
 // LOCALHOST
 DEFINE('USER', 'root');
